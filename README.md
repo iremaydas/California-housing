@@ -8,24 +8,6 @@ This project develops a machine learning model to predict median house prices in
 
 To build an accurate predictive model for California housing prices that can assist real estate investors, policy makers, and individual homebuyers in making informed decisions.
 
-## Repository Structure
-
-```
-california_housing_prediction/
-│
-├── data/                          # Data storage directory
-│
-├── notebooks/                     # Jupyter notebooks
-│   └── housing-script.ipynb  # Main analysis notebook
-│
-├── models/                        # Saved model files
-│   ├── california_housing_xgboost_model.joblib  # Serialized final model
-│   └── model_features.joblib      # Required features list
-│
-└── reports/                       # Project reports and visualizations
-    └── README.md                  # Detailed project overview and findings
-```
-
 ## Key Findings
 
 - Median income and geographic location are the most important factors influencing housing prices
